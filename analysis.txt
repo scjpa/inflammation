@@ -1,3 +1,5 @@
 This file will be used to record notes on the data and on the analysis.
 
 This is an edit. ABC
+
+We will write notes 0n everything we change in every script.
