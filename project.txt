@@ -1,1 +1,9 @@
-Notes on the scripts we need to write.
+Some initial data analysis to identify how inflammation changes over time after surgery.
+Jane is a data scientist and Samit is a statistician.
+
+We'll need to determine who's responsible for what is in our project.
+We may need to bring a third person into this project with Python programming skills.
+
+This is also an edit. 123
+
+They may need to be competent in R, too. Matplotlib and version control skills also useful init.
